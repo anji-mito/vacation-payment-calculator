@@ -1,7 +1,7 @@
-package ru.neoflex.neostudy.vacationpaycalculator.VacationCalculator.service;
+package ru.neoflex.neostudy.vacationpaymentcalculator.VacationCalculator.service;
 
 import org.springframework.stereotype.Service;
-import ru.neoflex.neostudy.vacationpaycalculator.VacationCalculator.model.VacationRequest;
+import ru.neoflex.neostudy.vacationpaymentcalculator.VacationCalculator.model.VacationRequest;
 
 @Service
 public interface VacationCalculatorService {

@@ -1,4 +1,4 @@
-package ru.neoflex.neostudy.vacationpaycalculator;
+package ru.neoflex.neostudy.vacationpaymentcalculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,9 +1,9 @@
-package ru.neoflex.neostudy.vacationpaycalculator.VacationCalculator.controller;
+package ru.neoflex.neostudy.vacationpaymentcalculator.VacationCalculator.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import ru.neoflex.neostudy.vacationpaycalculator.VacationCalculator.model.VacationRequest;
-import ru.neoflex.neostudy.vacationpaycalculator.VacationCalculator.service.VacationCalculatorService;
+import ru.neoflex.neostudy.vacationpaymentcalculator.VacationCalculator.model.VacationRequest;
+import ru.neoflex.neostudy.vacationpaymentcalculator.VacationCalculator.service.VacationCalculatorService;
 
 @RestController
 @RequestMapping("/calculate")
